@@ -50,14 +50,13 @@
 - Analyzed market behavior using algorithmic decision rules.  
 - Assessed trading performance using empirical backtesting techniques.  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hind madkour &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hind madkour &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hind madkour &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=hind madkour &icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hindmadkour&show_icons=true&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hindmadkour)
+## 💻 Top Languages
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hindmadkour&layout=compact)
 ## 🛠 Skills & Expertise
 
 ### 📊 Finance & Risk Management
