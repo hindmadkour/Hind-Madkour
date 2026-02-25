@@ -54,8 +54,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hindmadkour&show_icons=true&hide_title=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hindmadkour)
-## 💻 Top Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hindmadkour&layout=compact)
 ## 🛠 Skills & Expertise
 
